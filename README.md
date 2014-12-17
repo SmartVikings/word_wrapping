@@ -1,0 +1,2 @@
+zalamovanie_slov
+================
